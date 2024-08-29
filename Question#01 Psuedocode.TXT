@@ -1,0 +1,12 @@
+START
+Input num_1
+Input num_2
+Input num_3
+Set Max=0;
+If Max<num_1 then
+      Print "Max=num_1"
+If Max<num_2 then
+      Print "Max=num_2"
+Else 
+      Print "Max=num_3"
+End.
