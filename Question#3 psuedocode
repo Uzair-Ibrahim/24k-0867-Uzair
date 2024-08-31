@@ -1,0 +1,10 @@
+start
+input num_1
+input num_2
+input operator
+set sum=0
+if operator=="+" then
+ sum=num_1+num_2
+else 
+ sum=num_1-num_2
+end
