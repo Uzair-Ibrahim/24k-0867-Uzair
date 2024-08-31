@@ -1,0 +1,29 @@
+start 
+ask the user to enter the number in
+enter 1 for January 
+enter 2 for February 
+enter 3 for March
+enter 4 for April 
+enter 5 for May
+enter 6 for June 
+enter 7 for July 
+enter 8 for August 
+enter 9 for September 
+enter 10 for October 
+enter 11 for November 
+enter 12 for December 
+if number=1 then print January 
+if number=2 then print February 
+if number=3 then print March 
+if number=4 then print April 
+if number=5 then print May 
+if number=6 then print June 
+if number=7 then print July 
+if number=8 then print August 
+if number=9 then print September 
+if number=10 then print October 
+if number=11 then print November 
+if number=12 then print December
+if number>12
+then no appropriate month will be printed
+end
