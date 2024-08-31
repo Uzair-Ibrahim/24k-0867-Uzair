@@ -1,0 +1,6 @@
+start
+input any two numbers (a,b)
+divide a with b
+if remainder≠0 then number is odd
+else number is even
+end
