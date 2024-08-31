@@ -1,0 +1,8 @@
+start
+input num_1
+input num_2
+input num_3
+set sum=0
+sum=(-num_1-num_2-num_3)
+sum=(-1)*(sum)
+end
