@@ -1,0 +1,21 @@
+start
+ask the user to enter the numbers
+enter num_1
+enter num_1
+enter operator
+set result=0
+if oprerator is "+"
+then result=num_1+num_2
+else if operator is "-"
+then result=num_1-num_2
+else if operator is "*"
+then result=num_1*num_2
+else if operator is "/"
+   if num_2=0
+then print division is undefined 
+else result=num_1/num_2
+else if operator is "%"
+   if num_2=0
+then print mod is undefined 
+else result=num_1%num_2
+end
